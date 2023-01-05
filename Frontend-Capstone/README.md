@@ -1,4 +1,5 @@
-## Food Ordering App
+## Quick Medi
+
 
 ### Features:
 
@@ -13,6 +14,8 @@
 - Cart and checkout page
 - Contact page
 - Login and Register page
+- Contact Us page
+- Request Medicine page
 - Awesome modern minimalist UI
 
 ### Technologies Used:
